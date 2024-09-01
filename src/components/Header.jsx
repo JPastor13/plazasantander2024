@@ -15,7 +15,7 @@ const Header = () => {
       <Image
         height="100px"
         width="150px"
-        src="./src/img/logo.png"
+        src="./img/logo.png"
         alt="logo de la plaza"
         display={{ base: "block", md: "block" }}
       />
